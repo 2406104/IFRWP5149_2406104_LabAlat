@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **2406104@itg.ac.id**
 
+ 📫 Pertemuan 2 - UNIFIED MODELLING LANGUAGE
+
 - ⚡ Fun fact **My code has two modes: works and why.**
 
 <h3 align="left">Connect with me:</h3>
