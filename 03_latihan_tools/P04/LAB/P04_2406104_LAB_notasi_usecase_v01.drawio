@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="BrClycigqD6PkAjRblWZ" name="Page-1">
-        <mxGraphModel dx="1037" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1437" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="S7gHWEwqJzwwjtKODKeo-6" parent="S7gHWEwqJzwwjtKODKeo-1" style="ellipse;" value="ajukan pengembalian" vertex="1">
-                    <mxGeometry height="60" width="125" x="89" y="400" as="geometry"/>
+                    <mxGeometry height="60" width="125" x="80" y="400" as="geometry"/>
                 </mxCell>
                 <mxCell id="S7gHWEwqJzwwjtKODKeo-7" parent="S7gHWEwqJzwwjtKODKeo-1" style="ellipse;" value="Proses&#xa;keputusan&#xa;peminjaman" vertex="1">
                     <mxGeometry height="60" width="113" x="477" y="260" as="geometry"/>
