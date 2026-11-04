@@ -1,0 +1,118 @@
+<mxfile host="65bd71144e">
+    <diagram id="65h7_DIwNLpaUTHq84wB" name="Page-1">
+        <mxGraphModel dx="858" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-1" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="petugas laboratorium" vertex="1">
+                    <mxGeometry height="1150" width="250" x="190" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-21" edge="1" parent="n5Pn049Hfif_VFTN-LsB-1" source="n5Pn049Hfif_VFTN-LsB-2" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=0.167;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-2" parent="n5Pn049Hfif_VFTN-LsB-1" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;labelPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="90" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-3" parent="n5Pn049Hfif_VFTN-LsB-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="memilih pengajuan daan menetapkan persetujuan atau penolakan" vertex="1">
+                    <mxGeometry height="50" width="143.13" x="51.25" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-20" parent="n5Pn049Hfif_VFTN-LsB-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;membuka daftar pengajuan yang berstatus menunggu keputusan&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="174.38" x="20" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-4" parent="1" style="swimlane;startSize=20;whiteSpace=wrap;html=1;" value="sistem" vertex="1">
+                    <mxGeometry height="1150" width="440" x="425" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-34" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-6" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-9">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="360" y="420"/>
+                            <mxPoint x="360" y="1130"/>
+                            <mxPoint x="185.6" y="1130"/>
+                        </Array>
+                        <mxPoint x="360" y="730" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-6" parent="n5Pn049Hfif_VFTN-LsB-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="menampilkan pesan pengajuan tidak dapat diproses" vertex="1">
+                    <mxGeometry height="50" width="174.38" x="94.04" y="395" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-35" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-8" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.541;entryY=0.167;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-36" connectable="0" parent="n5Pn049Hfif_VFTN-LsB-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="disetujui" vertex="1">
+                    <mxGeometry relative="1" x="-0.3022" y="3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-37" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+                    <mxGeometry relative="1" x="-0.0442" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="288.96" y="670"/>
+                            <mxPoint x="288.96" y="895.1"/>
+                        </Array>
+                        <mxPoint x="180" y="669.9981081081085" as="sourcePoint"/>
+                        <mxPoint x="271.51" y="895.05" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-44" connectable="0" parent="n5Pn049Hfif_VFTN-LsB-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="ditolak" vertex="1">
+                    <mxGeometry relative="1" x="0.7153" y="-3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-8" parent="n5Pn049Hfif_VFTN-LsB-4" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="pengajuan&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); text-decoration-line: inherit; background-color: transparent;&quot;&gt;disetujui?&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="92.5" x="134.69" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-9" parent="n5Pn049Hfif_VFTN-LsB-4" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="160" y="1110" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-33" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-15" style="edgeStyle=none;html=1;" target="n5Pn049Hfif_VFTN-LsB-23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-15" parent="n5Pn049Hfif_VFTN-LsB-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(168, 169, 170, 0.52) rgb(18, 19, 20);&quot;&gt;menampilkan daftar pengajuan yang berstatus menunggu keputusan&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="174.38" x="87.81" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-30" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-31" connectable="0" parent="n5Pn049Hfif_VFTN-LsB-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="tidak dapat diproses" vertex="1">
+                    <mxGeometry relative="1" x="0.0068" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-23" parent="n5Pn049Hfif_VFTN-LsB-4" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="pengajuan dapat di proses?" vertex="1">
+                    <mxGeometry height="70" width="153.74" x="104.07" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-27" parent="n5Pn049Hfif_VFTN-LsB-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="mengubah status pengajuan menjadi disetujui dan meampilkan konfirmasi" vertex="1">
+                    <mxGeometry height="60" width="153.74" x="94.04" y="730" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-43" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-28" style="edgeStyle=none;html=1;" target="n5Pn049Hfif_VFTN-LsB-29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-28" parent="n5Pn049Hfif_VFTN-LsB-4" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="mengubah status pengajuan menjadi ditolak dan menampilkan konfirmasi penolakan" vertex="1">
+                    <mxGeometry height="50" width="174.38" x="98.13" y="870" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-29" parent="n5Pn049Hfif_VFTN-LsB-4" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+                    <mxGeometry height="80" width="92.5" x="139.07" y="980" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-40" edge="1" parent="n5Pn049Hfif_VFTN-LsB-4" source="n5Pn049Hfif_VFTN-LsB-27" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.115;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" target="n5Pn049Hfif_VFTN-LsB-29">
+                    <mxGeometry relative="1" x="0.2929" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="50" y="760"/>
+                            <mxPoint x="50" y="1029.4"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-17" edge="1" parent="1" source="n5Pn049Hfif_VFTN-LsB-3" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.338;exitY=1.062;exitDx=0;exitDy=0;" target="n5Pn049Hfif_VFTN-LsB-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="800" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-22" edge="1" parent="1" source="n5Pn049Hfif_VFTN-LsB-2" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5Pn049Hfif_VFTN-LsB-24" edge="1" parent="1" source="n5Pn049Hfif_VFTN-LsB-23" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="n5Pn049Hfif_VFTN-LsB-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
