@@ -18,7 +18,8 @@
 
  📫 Pertemuan 2 - UNIFIED MODELLING LANGUAGE
     Pertemuan 4 - Pertemuan 2 - UNIFIED MODELLING LANGUAGE
-      pertemuan 5 - SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+    pertemuan 5 - SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
+    Pertemuan 6 - Activity Diagram
 - ⚡ Fun fact **My code has two modes: works and why.**
 
 <h3 align="left">Connect with me:</h3>
