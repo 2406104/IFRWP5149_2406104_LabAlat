@@ -17,6 +17,7 @@
 - 📫 How to reach me **2406104@itg.ac.id**
 
  📫 Pertemuan 2 - UNIFIED MODELLING LANGUAGE
+    pertemuan 3 - Use Diagram dan Use Case Description
     Pertemuan 4 - Pertemuan 2 - UNIFIED MODELLING LANGUAGE
     pertemuan 5 - SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
     Pertemuan 6 - Activity Diagram

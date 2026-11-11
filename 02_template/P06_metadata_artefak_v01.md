@@ -1,4 +1,4 @@
-ID artefak :            LAB-P03-UC
+ID artefak :            LAB-P06-UC
 Judul :                 ACTIVITY DIAGRAM: DARI SKENARIO KE ALUR AKTIVITAS 
 Pertemuan :             06
 Sumber kebutuhan :      modul

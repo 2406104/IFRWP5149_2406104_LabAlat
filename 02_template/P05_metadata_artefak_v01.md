@@ -1,4 +1,4 @@
- artefak :            LAB-P02-UC
+ artefak :            LAB-P05-UC
 Judul :                 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
 Pertemuan :             05
 Sumber kebutuhan :      LAB-R01; LAB-R02
