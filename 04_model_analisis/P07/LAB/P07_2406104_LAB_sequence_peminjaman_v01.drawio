@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="GJageJPHxV7OPUFyIhpM" name="LAB-UC03 Ajukan Peminjaman">
-        <mxGraphModel dx="1258" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1093" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,7 +13,7 @@
                         <mxPoint x="135" y="1080" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Sistem Peminjaman" vertex="1">
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" value=":Sistem Peminjaman" vertex="1">
                     <mxGeometry height="33" width="160" x="220" y="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="Sv1BKr8Vr-2YG74CPiRa-80" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
@@ -22,7 +22,7 @@
                         <mxPoint x="310" y="1080" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Peminjaman" vertex="1">
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" value=":Peminjaman" vertex="1">
                     <mxGeometry height="33" width="160" x="390" y="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="Sv1BKr8Vr-2YG74CPiRa-82" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
@@ -31,7 +31,7 @@
                         <mxPoint x="480" y="1080" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Peralatan" vertex="1">
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" value=":Peralatan" vertex="1">
                     <mxGeometry height="33" width="170" x="559" y="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="Sv1BKr8Vr-2YG74CPiRa-84" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
