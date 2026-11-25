@@ -1,0 +1,203 @@
+<mxfile host="65bd71144e">
+    <diagram id="GJageJPHxV7OPUFyIhpM" name="LAB-UC03 Ajukan Peminjaman">
+        <mxGraphModel dx="1258" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" value="Peminjam" vertex="1">
+                    <mxGeometry height="33" width="150" x="60" y="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-78" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="68" as="sourcePoint"/>
+                        <mxPoint x="135" y="1080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Sistem Peminjaman" vertex="1">
+                    <mxGeometry height="33" width="160" x="220" y="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-80" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="305" y="68" as="sourcePoint"/>
+                        <mxPoint x="310" y="1080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Peminjaman" vertex="1">
+                    <mxGeometry height="33" width="160" x="390" y="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-82" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="475" y="68" as="sourcePoint"/>
+                        <mxPoint x="480" y="1080" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" value=":Peralatan" vertex="1">
+                    <mxGeometry height="33" width="170" x="559" y="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-84" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#666666;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="644" y="68" as="sourcePoint"/>
+                        <mxPoint x="640" y="1070" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-85" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;fontStyle=1;fontSize=11;fillColor=none;swimlaneFillColor=none;" value="ref" vertex="1">
+                    <mxGeometry height="90" width="477" x="237" y="146" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-86" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="Periksa Ketersediaan (LAB-UC04)" vertex="1">
+                    <mxGeometry height="20" width="200" x="400" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-87" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;fontStyle=1;fontSize=11;fillColor=none;swimlaneFillColor=none;" value="alt" vertex="1">
+                    <mxGeometry height="130" width="306" x="67" y="242" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-88" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="67" y="291" as="sourcePoint"/>
+                        <mxPoint x="373" y="291" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-89" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;fontStyle=1;fontSize=11;fillColor=none;swimlaneFillColor=none;" value="alt" vertex="1">
+                    <mxGeometry height="158" width="306" x="67" y="502" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-90" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="67" y="580" as="sourcePoint"/>
+                        <mxPoint x="373" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-91" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+                    <mxGeometry height="720" width="12" x="299" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-92" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+                    <mxGeometry height="18" width="12" x="638" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-93" parent="1" style="rounded=0;html=1;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+                    <mxGeometry height="18" width="12" x="469" y="745" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-94" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="110" as="sourcePoint"/>
+                        <mxPoint x="299" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-95" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="1. memilih peralatan yang akan dipinjam" vertex="1">
+                    <mxGeometry height="28" width="160" x="138" y="84" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-96" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="311" y="199" as="sourcePoint"/>
+                        <mxPoint x="638" y="199" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-97" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="2. periksaKetersediaan()" vertex="1">
+                    <mxGeometry height="20" width="200" x="380" y="176" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-98" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="[peralatan tersedia]" vertex="1">
+                    <mxGeometry height="18" width="160" x="135" y="246" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-99" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="[peralatan tidak tersedia]&lt;br&gt;menampilkan pesan peralatan tidak tersedia;&lt;br&gt;pengajuan tidak dilanjutkan" vertex="1">
+                    <mxGeometry height="46" width="168" x="135" y="296" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-100" edge="1" parent="1" source="Sv1BKr8Vr-2YG74CPiRa-99" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;exitX=1;exitY=1;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="305" y="344" as="sourcePoint"/>
+                        <mxPoint x="135" y="344" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-101" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="420" as="sourcePoint"/>
+                        <mxPoint x="299" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-102" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="3. mengisi tanggal pinjam, tanggal rencana kembali, dan keperluan peminjaman" vertex="1">
+                    <mxGeometry height="40" width="160" x="138" y="378" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-103" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="343" y="466"/>
+                            <mxPoint x="343" y="488"/>
+                        </Array>
+                        <mxPoint x="311" y="466" as="sourcePoint"/>
+                        <mxPoint x="311" y="488" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-104" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="4. memeriksa kelengkapan isian" vertex="1">
+                    <mxGeometry height="20" width="200" x="410" y="468" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-105" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="[isian lengkap]" vertex="1">
+                    <mxGeometry height="18" width="160" x="135" y="506" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-106" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="299" y="560" as="sourcePoint"/>
+                        <mxPoint x="135" y="560" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-107" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="5. menampilkan ringkasan pengajuan" vertex="1">
+                    <mxGeometry height="34" width="160" x="138" y="524" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-108" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="[isian tidak lengkap]&lt;br&gt;menampilkan pesan isian belum lengkap;&lt;br&gt;peminjam diminta melengkapi isian" vertex="1">
+                    <mxGeometry height="56" width="165" x="135" y="584" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-109" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="299" y="641" as="sourcePoint"/>
+                        <mxPoint x="135" y="641" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-110" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="699" as="sourcePoint"/>
+                        <mxPoint x="299" y="699" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-111" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="6. mengirim pengajuan" vertex="1">
+                    <mxGeometry height="20" width="160" x="138" y="678" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-112" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="311" y="755" as="sourcePoint"/>
+                        <mxPoint x="469" y="755" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-113" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="7. ajukan(): menyimpan pengajuan dengan status Menunggu Keputusan" vertex="1">
+                    <mxGeometry height="42" width="160" x="312" y="712" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-114" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="299" y="813" as="sourcePoint"/>
+                        <mxPoint x="135" y="813" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-115" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="8. menampilkan nomor pengajuan" vertex="1">
+                    <mxGeometry height="20" width="160" x="138" y="791" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-117" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=10;spacing=0;spacingLeft=2;" value="[mahasiswa memilih cetak]&lt;div&gt;9.memilih cetak bukti pengajuan&amp;nbsp;&lt;/div&gt;&lt;div&gt;(khusus mahasiswa, extend LAB-UC05)&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="20" width="160" x="137.5" y="870" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-118" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;strokeColor=#000000;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="910" as="sourcePoint"/>
+                        <mxPoint x="310" y="910" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;10.menampilkan bukti pengajuan dengan nomor pengajuan&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="34" width="188.13" x="125.93" y="950" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-122" edge="1" parent="1" style="endArrow=none;endFill=0;html=1;strokeColor=#000000;startArrow=classic;startFill=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="135" y="984" as="sourcePoint"/>
+                        <mxPoint x="310" y="984" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-123" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=22;fontStyle=1;fontSize=11;fillColor=none;swimlaneFillColor=none;" value="opt" vertex="1">
+                    <mxGeometry height="192" width="495" x="65" y="848" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sv1BKr8Vr-2YG74CPiRa-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;extension point: bukti pengajuan tersedia&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="200" x="350" y="1010" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
